@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+#homemasthead{
+	background-image:url("Images/grass.jpg");
+	background-size: cover;
+	background-position:center;
+	font-family: 'Fuzzy Bubbles', cursive;
+	/*background-color: #6CA82E;
+	font-family: 'Fuzzy Bubbles', cursive;
+	border-style:double;
+	border-color:#EDF8C7;
+	border-width:10px;*/
+	
+}
+
+#nav{
+	background-color: #AFEBAA;
+	font-family: 'BIZ UDPMincho', serif;
+}
+
+.bg-dark{
+	background-color: #476C9A !important;
+}
+
+.display-1{
+	font-size:80px;
+}
+
+#home{
+	background-color: #C7DDF8;
+	font-family: 'BIZ UDPMincho', serif;
+}
+
+#about{
+	background-color: #C7DDF8;
+	font-family: 'BIZ UDPMincho', serif;
+}
+
+#footer{
+	background-color: #476C9A;
+	font-family: 'Fuzzy Bubbles', cursive;
+	color:#F8FBBE;
+}
+
+#links{
+	font-family: 'Fuzzy Bubbles', cursive;
+	text-decoration: underline;
+}
+
+a{
+	color:black;
+}
+
+a:link, a:visited{
+	color: #F8FBBE;
+}
+
+a:hover{
+	color:#B2BC1A;
+}
+
+#references{
+	text-decoration: underline;
+}
+
+#refimages a{
+	color:#00B510;
+	text-decoration: underline;
+}
+
+
+#refimages a hover{
+	
+}
